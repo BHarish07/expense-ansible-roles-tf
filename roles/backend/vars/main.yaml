@@ -1,6 +1,2 @@
-login_user: root
-login_host: db.harishbalike.online
-login_password: ExpenseApp1
-DB_HOST: db.harishbalike.online
 app_location: /app
 component: backend
